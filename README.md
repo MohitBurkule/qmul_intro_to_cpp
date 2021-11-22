@@ -1,2 +1,2 @@
-[![Binder](https://img.shields.io/badge/launch-binder-brightgreen.svg)](https://mybinder.org/v2/gh/MohitBurkule/qmul_intro_to_cpp/stable?filepath=notebooks/xcpp.ipynb)
-[![Binder](https://img.shields.io/badge/launch-binder-brightgreen.svg)](https://mybinder.org/v2/gh/MohitBurkule/qmul_intro_to_cp/stable?filepath=notebooks/coursework1.ipynb)
+[![Binder](https://img.shields.io/badge/launch-binder-brightgreen.svg)](https://mybinder.org/v2/gh/MohitBurkule/qmul_intro_to_cpp/master?filepath=notebooks/xcpp.ipynb)
+[![Binder](https://img.shields.io/badge/launch-binder-brightgreen.svg)](https://mybinder.org/v2/gh/MohitBurkule/qmul_intro_to_cp/master?filepath=notebooks/coursework1.ipynb)
